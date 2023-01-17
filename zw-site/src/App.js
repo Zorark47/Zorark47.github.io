@@ -50,7 +50,7 @@ function App() {
               </Button>
               <Button
                 variant="contained"
-                href="https://github.com/Zorark47/Zorark47.github.io/tree/gh-pages"
+                href="https://github.com/Zorark47/Zorark47.github.io/"
                 target="_blank"
               >
                 View Code
@@ -81,7 +81,7 @@ function App() {
 
           <Card sx={{ maxWidth: "15%" }}>
             <CardContent>
-              <Typography variant="h5">Studdy Buddy Finder</Typography>
+              <Typography variant="h5">US Wind Turbine Data</Typography>
               <Typography color="text.secondary">2021</Typography>
               <br />
               <Typography variant="p">
@@ -92,7 +92,7 @@ function App() {
             <CardActions>
               <Button
                 variant="contained"
-                href="https://zorark47.github.io/"
+                href="https://zach-final-project.netlify.app/"
                 target="_blank"
               >
                 View Website
@@ -133,7 +133,7 @@ function App() {
               GitHub
             </Button>
             <Button
-              href="https://drive.google.com/file/d/1bgzfZbC-1KUPgAYyKH0pPLHjRf8g12sW/view?usp=sharing"
+              href="https://drive.google.com/file/d/13yeW9bZNIw5rqBmxPL0Y_u-7yym-2Xv7/view?usp=share_link"
               target="_blank"
               startIcon={<PictureAsPdfIcon />}
             >
