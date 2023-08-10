@@ -163,7 +163,7 @@ function App() {
               GitHub
             </Button>
             <Button
-              href="https://drive.google.com/file/d/13yeW9bZNIw5rqBmxPL0Y_u-7yym-2Xv7/view?usp=share_link"
+              href="https://docs.google.com/document/d/1bV0CzrbrzwgWDOZR0TKj3wfLsnvvax55_EB3ax3a6rM/edit?usp=sharing"
               target="_blank"
               startIcon={<PictureAsPdfIcon />}
             >
