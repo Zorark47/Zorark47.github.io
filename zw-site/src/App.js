@@ -20,7 +20,7 @@ function App() {
       <div class="center">
         <h2>About Me</h2>
         <p>
-          I am currently a 3rd year Computer Science student at the University
+          I am currently a 4th year Computer Science student at the University
           of Virginia, with skills and experience in Python, Java, JavaScript,
           TypeScript, React, C++, HTML, and CSS. I love using my computer
           science and programming skills to solve problems for clientle with
