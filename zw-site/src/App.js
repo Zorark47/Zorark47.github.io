@@ -21,15 +21,45 @@ function App() {
         <h2>About Me</h2>
         <p>
           I am currently a 3rd year Computer Science student at the University
-          of Virginia, with skills and experience in Python, Java, Javascript,
-          C++, HTML, and CSS. I love using my computer science and programming
-          skills to solve problems for clientle with diverse needs.
+          of Virginia, with skills and experience in Python, Java, JavaScript,
+          TypeScript, React, C++, HTML, and CSS. I love using my computer
+          science and programming skills to solve problems for clientle with
+          diverse needs.
         </p>
       </div>
 
       <div>
         <h2>Portfolio</h2>
         <div class="flex-container">
+          <Card sx={{ maxWidth: "15%" }}>
+            <CardContent>
+              <Typography variant="h5">Planner App (WIP)</Typography>
+              <Typography color="text.secondary">2023</Typography>
+              <br />
+              <Typography variant="p">
+                A planner web app built with features that I found lacking in
+                other planning apps. Built to learn more React with backend
+                functionality.
+              </Typography>
+            </CardContent>
+            <CardActions>
+              <Button
+                variant="contained"
+                href="https://zach-planner.netlify.app/"
+                target="_blank"
+              >
+                View Website
+              </Button>
+              <Button
+                variant="contained"
+                href="https://github.com/Zorark47/planner"
+                target="_blank"
+              >
+                View Code
+              </Button>
+            </CardActions>
+          </Card>
+
           <Card sx={{ maxWidth: "15%" }}>
             <CardContent>
               <Typography variant="h5">Portfolio Website</Typography>
